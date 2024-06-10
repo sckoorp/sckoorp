@@ -26,4 +26,4 @@
 <h3>
   <samp>Tools</samp>
 </h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,postman">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,chatgpt,postman,figma">
