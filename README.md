@@ -18,7 +18,7 @@
 <h3>
   <samp>Frontend</samp>
 </h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nuxt,tailwind">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nuxt,vue,solidjs,tailwind">
 <h3>
   <samp>Databases</samp>
 </h3>
