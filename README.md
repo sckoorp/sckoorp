@@ -7,6 +7,6 @@
 <h2>
   <samp>Languages, Technologies & Tools</samp>
 </h2>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,sass">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,nuxt,supabase,svelte">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,vercel,chatgpt,postman,figma">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css&perline=4">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,nuxt,supabase&perline=5">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,chatgpt,postman,figma&perline=6">
