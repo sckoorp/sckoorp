@@ -8,5 +8,5 @@
   <samp>Languages, Technologies & Tools</samp>
 </h2>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,html,css,tailwind&perline=5">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,nuxt,supabase,storybook&perline=6">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,nuxt,supabase,storyblok&perline=6">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,vercel,chatgpt,postman,figma&perline=7">
