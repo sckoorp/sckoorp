@@ -13,7 +13,7 @@ I’m a full-stack developer specializing in web development, with a strong enth
 ![](https://img.shields.io/badge/Express-!?logo=express&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-!?logo=mongodb&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Nuxt-!?logo=nuxtdotjs&color=212830&style=for-the-badge)
-![](https://img.shields.io/badge/Nuxt-!?logo=vuedotjs&color=212830&style=for-the-badge)
+![](https://img.shields.io/badge/Vue-!?logo=vuedotjs&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Tailwindcss-!?logo=tailwindcss&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Prisma-!?logo=prisma&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Storyblok-!?logo=storyblok&color=212830&style=for-the-badge)
