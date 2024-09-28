@@ -10,6 +10,7 @@ I’m a full-stack developer specializing in web development, with a strong enth
 ![](https://img.shields.io/badge/Typescript-!?logo=typescript&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Python-!?logo=python&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/NodeJS-!?logo=nodedotjs&color=212830&style=for-the-badge)
+![](https://img.shields.io/badge/Hono-!?logo=hono&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Express-!?logo=express&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-!?logo=mongodb&color=212830&style=for-the-badge)
 ![](https://img.shields.io/badge/Nuxt-!?logo=nuxtdotjs&color=212830&style=for-the-badge)
