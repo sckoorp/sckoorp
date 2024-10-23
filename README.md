@@ -4,15 +4,7 @@
 I’m a full-stack developer specializing in web development, with a strong enthusiasm for using Vue & Nuxt to create dynamic and engaging applications. I’m passionate about crafting intuitive and efficient solutions that enhance user engagement.
 
 ### Skills ✨
-![](https://img.shields.io/badge/Javascript-!?logo=javascript&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/Typescript-!?logo=typescript&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/NodeJS-!?logo=nodedotjs&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/Express-!?logo=express&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/MongoDB-!?logo=mongodb&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/Nuxt-!?logo=nuxtdotjs&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/Vue-!?logo=vuedotjs&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/Tailwindcss-!?logo=tailwindcss&color=0D1117&style=for-the-badge)
-![](https://img.shields.io/badge/Pocketbase-!?logo=pocketbase&color=0D1117&style=for-the-badge)
+![](https://skills.sckoorp.com/icons?i=js,ts,nodejs,express,mongo,vue,nuxt,pocketbase,tailwindcss)
 
 ### Get in Touch 🔗
 [![](https://img.shields.io/badge/Github-!?logo=github&color=0D1117&style=for-the-badge)](https://github.com/sckoorp)
